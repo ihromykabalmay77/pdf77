@@ -1,0 +1,5 @@
+# Lokal saja — tidak di-push ke GitHub Pages
+certs/
+server-pdf77.py
+start-pdf77.bat
+*.log
