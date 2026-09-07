@@ -2,4 +2,5 @@
 certs/
 server-pdf77.py
 start-pdf77.bat
+Update Online.bat
 *.log
